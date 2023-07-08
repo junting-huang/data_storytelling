@@ -5,21 +5,18 @@ This is a draft syllabus for the course, "Data and Transmedia Storytelling," cur
 ## data
  - case 1 pattern: a poetry generator
  - case 2 number: a doomsday clock
- - case 3 processing: data-generated music</br></br>
-
- - extended case 1: how does du bois communicate racial politics?
+ - case 3 processing: data-generated music
+ * extended case 1: how does du bois communicate racial politics?
 
 ## agent
  - case 4 cognition: a chatbot
- - case 5 sentiment: a playlist</br></br>
-   
- - extended case 2: why are beckett's characters labeled autistic?
+ - case 5 sentiment: a playlist
+ * extended case 2: why are beckett's characters labeled autistic?
   
 ## world
  - case 6 space: an interactive map
- - case 7 time: a live feed</br></br>
-   
- - extended case 3: how does thoreau document climate change?
+ - case 7 time: a live feed
+ * extended case 3: how does thoreau document climate change?
 
 ## representation
  - case 8 visualization
